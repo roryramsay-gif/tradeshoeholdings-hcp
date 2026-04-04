@@ -1,0 +1,30 @@
+{
+  "name": "Airstep HCP",
+  "short_name": "Airstep",
+  "description": "Airstep Medical Footwear \u2014 Clinical Reference for Healthcare Professionals",
+  "start_url": "/tradeshoeholdings-hcp/",
+  "scope": "/tradeshoeholdings-hcp/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1e3a4a",
+  "theme_color": "#1e3a4a",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": [
+    "medical",
+    "health"
+  ],
+  "lang": "en-ZA"
+}
